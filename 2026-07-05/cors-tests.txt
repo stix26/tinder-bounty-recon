@@ -1,0 +1,25 @@
+=== CORS TESTS ===
+=== https://www.tinder.com ===
+HTTP/2 301 
+content-type: text/plain; charset=utf-8
+content-length: 53
+location: https://tinder.com/
+date: Sun, 05 Jul 2026 05:23:18 GMT
+set-cookie: AWSALB=pC+QEk7YqRkRt9Miw2NvM4dfnZbM3ad6ruT6JWTGctsgJfs68evqLCcjoEe0bB+IO8tON+qfCq2YKLCyR9ZI67TG9/BysTKCoGKCL1TCFbCmvjVYNGNQ5cNOmkiS; Expires=Sun, 12 Jul 2026 05:23:18 GMT; Path=/
+set-cookie: AWSALBCORS=pC+QEk7YqRkRt9Miw2NvM4dfnZbM3ad6ruT6JWTGctsgJfs68evqLCcjoEe0bB+IO8tON+qfCq2YKLCyR9ZI67TG9/BysTKCoGKCL1TCFbCmvjVYNGNQ5cNOmkiS; Expires=Sun, 12 Jul 2026 05:23:18 GMT; Path=/; SameSite=None; Secure
+server: nginx
+x-powered-by: Express
+x-dns-prefetch-control: on
+referrer-policy: origin-when-cross-origin
+vary: Accept,Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 b77ae679aaa9d61abb8ae3f45762a18a.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD56-P1
+x-amz-cf-id: jHROM5h8WNZh4BZvVlR3smcEBVzdV-4hQM0-bZhVGkxIaC9F_7getw==
+age: 11
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+
+Moved Permanently. Redirecting to https://tinder.com/---

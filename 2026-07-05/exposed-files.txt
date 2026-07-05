@@ -1,0 +1,19 @@
+=== EXPOSED FILES ===
+--- https://www.tinder.com/.env ---
+HTTP 200 | Size: 560502
+--- https://www.tinder.com/.git/config ---
+HTTP 200 | Size: 560514
+--- https://www.tinder.com/dump.sql ---
+HTTP 200 | Size: 560506
+--- https://www.tinder.com/admin ---
+HTTP 200 | Size: 560503
+--- https://www.tinder.com/api ---
+HTTP 200 | Size: 560501
+--- https://www.tinder.com/robots.txt ---
+HTTP 200 | Size: 111
+--- https://www.tinder.com/.htaccess ---
+HTTP 200 | Size: 560507
+--- https://www.tinder.com/backup ---
+HTTP 200 | Size: 560504
+--- https://www.tinder.com/wp-admin ---
+HTTP 200 | Size: 543543
